@@ -1,7 +1,6 @@
 # Visualizing Attention Matrices
 
 <img src="./attention_matrix.png" width="400" height="300">
-
 <img src="./modularity_scores.png" width="400" height="300">
 
 
