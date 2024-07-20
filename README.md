@@ -2,6 +2,8 @@
 
 <img src="./attention_matrix.png" width="400" height="300">
 
+<img src="./modularity_scores.png" width="400" height="300">
+
 
 This repository contains a Jupyter Notebook for visualizing attention matrices, which are often used in transformer-based neural network models. The visualization helps in understanding how different parts of the input sequence contribute to the attention mechanism, providing insights into model interpretability and behavior.
 
