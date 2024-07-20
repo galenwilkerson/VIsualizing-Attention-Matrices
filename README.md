@@ -2,7 +2,7 @@
 
 <img src="./attention_matrix.png" width="400" height="300">
 <img src="./modularity_scores.png" width="400" height="300">
-
+This histogram shows the distribution of modularity scores, indicating that most of the matrices are quite modular, with scores clustering around 0.45 to 0.50.
 
 This repository contains a Jupyter Notebook for visualizing attention matrices, which are often used in transformer-based neural network models. The visualization helps in understanding how different parts of the input sequence contribute to the attention mechanism, providing insights into model interpretability and behavior.
 
