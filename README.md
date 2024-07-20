@@ -1,11 +1,13 @@
 # Visualizing Attention Matrices
 
 <img src="./attention_matrix.png" width="400" height="300">
+
 The attention matrix is like an adjacency matrix that tells you how much each token should attend to the other tokens for contextual meaning..
 So, think of it as a graph where each word has connections of various strengths to other words.
 <p>
    
 <img src="./modularity_scores.png" width="400" height="300">
+
 This histogram shows the distribution of modularity scores, indicating that most of the matrices are quite modular, with scores clustering around 0.45 to 0.50.
 
 <p>
